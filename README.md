@@ -160,9 +160,9 @@ npm run dev
 MIT License. See `LICENSE`.
 
 ## 📬 Contact
-**Kaan** – [kaankocaer026@gmail.com](mailto:kaankocaer026@gmail.com)  
-GitHub: [https://github.com/KaanK026](https://github.com/KaanK026)
+**Uygar** – [uygar017@gmail.com](mailto:uygar017@gmail.com)  
+GitHub: [https://github.com/SultanLikedIt](https://github.com/SultanLikedIt)
 
 ---
 
-*Made by Kaan Kocaer and Teammates for Junction AI Hackathon– Politecnico di Torino, Computer Engineering (Exp. Grad: 2027)*
+*Made by Uygar Yilmaz and Teammates for Junction AI Hackathon– Politecnico di Torino, Computer Engineering (Exp. Grad: 2027)*
